@@ -1,6 +1,9 @@
 IT is a clone of netflix.
 Data is fetched from a api key in this project.
 
+I have hosted the clone on netlify . 
+ Link is mentioned here :- https://wizardly-payne-3820f0.netlify.app/
+
 Screen1:-
 
 ![netflix1](https://user-images.githubusercontent.com/62704218/157174611-921716d8-1a4a-4083-8918-ffa890b6ecce.jpg)
